@@ -451,6 +451,9 @@ footer span a:hover{
 }
 
 @media (max-width: 991px) {
+    .text3{
+        font-size:10px;
+    }
     .max-width{
         padding: 0 50px;
     }
