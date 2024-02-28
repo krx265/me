@@ -452,7 +452,7 @@ footer span a:hover{
 
 @media (max-width: 991px) {
     .text3{
-        font-size:10px;
+        font-size:20px;
     }
     .max-width{
         padding: 0 50px;
@@ -543,14 +543,14 @@ footer span a:hover{
 
 @media (max-width: 500px) {
     .home .home-content .text-2{
-        font-size: 50px;
+        font-size: 40px;
     }
     .home .home-content .text-3{
-        font-size: 27px;
+        font-size: 15px;
     }
     .about .about-content .right .text,
     .skills .skills-content .left .text{
-        font-size: 19px;
+        font-size: 10px;
     }
     .contact .right form .fields{
         flex-direction: column;
