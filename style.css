@@ -451,7 +451,7 @@ footer span a:hover{
 }
 
 @media (max-width: 991px) {
-    .text3{
+    .home-content > .text3{
         font-size:20px;
     }
     .max-width{
@@ -459,6 +459,9 @@ footer span a:hover{
     }
 }
 @media (max-width: 947px){
+    section .title{
+        height: 25vh;
+    }
     .menu-btn{
         display: block;
         z-index: 999;
@@ -543,14 +546,14 @@ footer span a:hover{
 
 @media (max-width: 500px) {
     .home .home-content .text-2{
-        font-size: 40px;
+        font-size: 50px;
     }
     .home .home-content .text-3{
-        font-size: 15px;
+        font-size: 18px;
     }
     .about .about-content .right .text,
     .skills .skills-content .left .text{
-        font-size: 10px;
+        font-size: 20px;
     }
     .contact .right form .fields{
         flex-direction: column;
